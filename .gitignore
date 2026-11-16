@@ -1,0 +1,22 @@
+# Keil build output and user settings
+/Car/MDK-ARM/Car/
+*.uvguix.*
+*.uvoptx
+*.lst
+*.axf
+*.hex
+*.o
+
+# Android build output and local SDK configuration
+.gradle/
+.idea/
+build/
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Host test binaries and logs
+*.exe
+*.log
